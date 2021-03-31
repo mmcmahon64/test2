@@ -1,2 +1,3 @@
 This is file2.txt
 This lie was addes in our local git repo
+This line was added in GIT HUB
